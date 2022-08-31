@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nyancatx.github.io</id>
+    <title>nyancatx_blog</title>
+    <updated>2022-08-31T03:20:14.254Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nyancatx.github.io"/>
+    <link rel="self" href="https://nyancatx.github.io/atom.xml"/>
+    <subtitle>return 0;</subtitle>
+    <logo>https://nyancatx.github.io/images/avatar.png</logo>
+    <icon>https://nyancatx.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, nyancatx_blog</rights>
+</feed>
